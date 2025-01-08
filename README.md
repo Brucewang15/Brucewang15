@@ -4,13 +4,13 @@
 💻 I am passionate about fullstack development, artificial intelligence, and machine learning.  
 🌟 I am a software engineer at **Hppn.ing**.  
 📂 Check out some of my projects:  
-- **Watclub** (link coming soon!)  
-- **Tune2Keys** (link coming soon!)  
+- [**Watclub**](https://github.com/Brucewang15/WatClub)  
+- [**Tune2Keys**](https://github.com/jglu/tune2key)  
 - More exciting projects to come!  
 
 📬 **How to contact me:**  
-- [Email](#)  
-- [LinkedIn](#) 
+- **Email:** [bruce.wang15@outlook.com](mailto:bruce.wang15@outlook.com)
+- **LinkedIn** [brucewang15](https://www.linkedin.com/in/brucewang15/)
 
 🌐 Feel free to explore my personal website: [https://brucewang1540.vercel.app/](https://brucewang1540.vercel.app/)  
 
@@ -51,7 +51,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brucewang15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
