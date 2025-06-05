@@ -1,7 +1,7 @@
 # ⚡ About Me:
 
 🎓 I am currently studying Computer Science at the University of Waterloo.  
-💻 I am passionate about fullstack development, artificial intelligence, and machine learning.  
+💻 I am interested in browser agents, full-stack, and ai/ml.  
 🌟 I am a software engineer at **Plato**.  
 📂 Check out some of my projects: [**Watclub**](https://github.com/Brucewang15/WatClub), [**Tune2Keys**](https://github.com/jglu/tune2key), [**SoccerMetrics**](https://github.com/gordonzhang1/SoccerMetrics) and more exciting projects to come!  
 📬 How to contact me: You can reach me via email at [bruce.wang15@outlook.com](mailto:bruce.wang15@outlook.com) or connect with me on LinkedIn at [brucewang15](https://www.linkedin.com/in/brucewang15/).    
