@@ -1,6 +1,6 @@
 ## Bruce Wang
 
-Hi! I'm Bruce Wang, a software engineer based in Vancouver, Waterloo, and San Francisco. I study Computer Science at the [University of Waterloo](https://uwaterloo.ca/) and currently work as a Member of Technical Staff intern at [Mercor](https://www.mercor.com).
+Hi! I'm Bruce Wang, a software engineer based in Vancouver, Waterloo, and San Francisco. I study Computer Science at the University of Waterloo and currently work as a Member of Technical Staff intern at [Mercor](https://www.mercor.com).
 
 <p align="left">
   <a href="https://brucewang15.vercel.app/">
